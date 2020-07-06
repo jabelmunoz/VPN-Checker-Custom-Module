@@ -1,0 +1,10 @@
+name: VPN Checker Block
+description: Check if visitors are logged into the Full Client campus VPN.
+core: 8.x
+package: Custom
+dependencies:
+- node
+- block
+type: module
+libraries:
+  - vpn_checker/global

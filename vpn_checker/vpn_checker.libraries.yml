@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    theme:
+      css/vpn_checker.css: {}
+  js:
+    js/vpn_checker.js: {}

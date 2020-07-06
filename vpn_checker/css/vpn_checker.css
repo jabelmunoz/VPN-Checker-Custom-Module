@@ -1,0 +1,27 @@
+.block-vpn-checker .content {
+  margin: 0 auto;
+  max-width: 620px;
+  text-align: center;
+}
+
+.block-vpn-checker .test-vpn {
+  margin-bottom: 25px;
+}
+
+.block-vpn-checker .vpn-test-button {
+  cursor: pointer;
+  display: inline-block;
+  margin-bottom: 7px;
+}
+
+.block-vpn-checker .vpn-status {
+  background-color: #2D9C8B;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+}
+
+.block-vpn-checker .no-connection {
+ background-color: #BA312B;
+}
