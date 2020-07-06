@@ -29,7 +29,6 @@ class VpnChecker extends BlockBase {
    */
   public function build() {
     $ip_address = \Drupal::request()->getClientIp();
-    $html = $ip_address;
     
     // Set different ip ranges to check
     $range_low_ip_one = '128.195.64.100';
